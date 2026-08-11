@@ -1,0 +1,12 @@
+{
+  "name": "azure-vnet-poc-backend",
+  "version": "1.0.0",
+  "description": "Simple backend for Azure VNet Integration POC",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
